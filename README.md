@@ -1,1 +1,1 @@
-# haskell-webkit-editor-example
+# Webkit editor example
